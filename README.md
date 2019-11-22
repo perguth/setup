@@ -17,7 +17,7 @@ setup user@target
 ```
 
 - [ ] All user promts before blocking [system calls](https://www.google.com/search?q=node+exec+or+spawn&rlz=1CAVNXA_enDE874&oq=node+exec+or+spawn&aqs=chrome..69i57j0l5.4637j0j7&sourceid=chrome&ie=UTF-8).
-- [ ] Sane `-y` option. With `Choose [ YES / no ]` like commonly used shortcuts.
+- [ ] Sane `-y`/`--yes` option. Else a `Choose [ YES / no ]` mechanism like provided by `apt`.
 - [ ] Summary and relevant information in the end (eg. Ygg address).
 - [ ] Use [terminal-menu](https://github.com/substack/terminal-menu) for UI.
 - [ ] Run update segments (eg. docker) in async processes but instead of callback or promise use [nanobus](https://github.com/choojs/nanobus).
