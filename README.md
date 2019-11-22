@@ -1,4 +1,4 @@
-# \#setup
+# [\#setup](https://github.com/topics/tools)
 
 📜 Set up ChromeOS and RaspberryPi.
 
