@@ -1,6 +1,6 @@
 # [\#setup](https://github.com/topics/tools)
 
-📜 Set up ChromeOS and RaspberryPi.
+**📜 Set up ChromeOS and RaspberryPi.**
 
 ```sh
 # Run this on the installation target: 👩‍💻
