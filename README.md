@@ -16,7 +16,7 @@ setup user@target
 # Update if already set up!
 ```
 
-- [ ] All questions before blocking calls.
+- [ ] All questions before blocking system calls.
 - [ ] Summary and relevant information in the end.
 - [ ] Use [terminal-menu](https://github.com/substack/terminal-menu) for UI.
 - [ ] Run update segments (eg. docker) in async processes but instead of callback or promise use [nanobus](https://github.com/choojs/nanobus).
