@@ -31,7 +31,7 @@ setup user@target
  └▶ Router ─────State ───▶ Views ────┘
  ```
  
- - [ ] Provide standard NPM commands. Use `debug` for loggin use `per-env` and `nodemon`. Surpass `standard`! Yes, you can! 🏖️
+ - [ ] Provide standard NPM commands. Use the NPM libs `debug`, `per-env` and `nodemon`. Surpass [`standard`](https://github.com/standard/standard)! Yes, you can! 🏖️
  - [ ] Keep code lean, avoid folders and `else`. Keep filesize between ~50 and 500 lines. Scope temporary variables and return often and always 😏 *smirk!*
  - [ ] The internal API should expose `/update` and `/upgrade` calls like `apt` does. Interface definition needs to be followed.
  - [ ] Prefer [nanostack](https://github.com/yoshuawuyts/nanostack), [server-router](https://github.com/yoshuawuyts/server-router) and [Choo](https://github.com/choojs/choo).
