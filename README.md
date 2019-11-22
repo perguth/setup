@@ -32,7 +32,7 @@ setup user@target
  ```
  
  - [ ] Provide standard NPM commands. Use `debug` for loggin use `per-env` and `nodemon`. Surpass `standard`! Yes, you can! 🏖️
- - [ ] Keep code lean, avoid folders and `else`. Keep filesize between ~50 and 500 lines. Scope temporary variables and return often and always 😏 *smirk*
+ - [ ] Keep code lean, avoid folders and `else`. Keep filesize between ~50 and 500 lines. Scope temporary variables and return often and always 😏 *smirk!*
  - [ ] The internal API should expose `/update` and `/upgrade` calls like `apt` does. Interface definition needs to be followed.
 
 ✨ Yep! Use a node REST server to provide a interface to a `ash` shell that then executes Bash.
