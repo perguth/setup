@@ -26,6 +26,6 @@ setup user@target
  - [ ] The internal API should expose `/update` and `/upgrade` calls like `apt` does. Interface definition needs to be followed.
  - [ ] Prefer [nanostack](https://github.com/yoshuawuyts/nanostack), [server-router](https://github.com/yoshuawuyts/server-router) and [Choo](https://github.com/choojs/choo).
 
-✨ Yep! Use a node REST server to provide a interface to a `ash` shell that then executes Bash.
+✨ Yep! Use a node REST server to provide a interface to a `sh` shell that then executes Bash.
 
 <sup>[(xo)](https://github.com/perguth/ethical-design-manifesto)</sup>
